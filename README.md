@@ -14,5 +14,6 @@ This tutorial serves the purpose of teaching the user,
 
 ### Getting Started
 
-![](https://github.com/AMcNultyE4/INFOTC-1600-Final/blob/main/Images/VSCWeb.md)
+![](images/VSCWeb.png)
+
 
