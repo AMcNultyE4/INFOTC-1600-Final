@@ -21,7 +21,7 @@ Once the download has completed open the application. It will look like similar 
 ![Visualcode](https://user-images.githubusercontent.com/70073694/145652591-27617214-3ca9-431c-b500-928958847a80.png)
 
 ### Downloading Extentions in Visual Studio Code.
-In order to wotk within Visual Studio Code we will need to install extentions specfic to the coding language we wish to work within. In the case of this tutorial we will download and use **C#**.
+In order to work within Visual Studio Code we will need to install extentions specfic to the coding language we wish to work within. In the case of this tutorial we will download and use **C#**.
   Naviagte to the left-hand side of the screen and select the four square icon for the extentions repository. A search bar will appear, search **C#**. Select the top result published by *Microsoft*  and install the extention.
   
   ### **Note that .NET may be required for proper function of C# in Visual Studio Code. This can be found [here](https://dotnet.microsoft.com/en-us/download).
